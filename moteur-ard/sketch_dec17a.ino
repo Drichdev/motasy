@@ -6,7 +6,7 @@ const char* ssid = "name";
 const char* password = "pass";
 
 // URL du serveur et token d'autorisation
-const char* serverUrl = "http://192.168.1.64:5000/command";
+const char* serverUrl = "http://1.1.1.1:5000/command";
 const String token = "token";
 
 void setup() {
